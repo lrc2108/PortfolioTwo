@@ -1,0 +1,184 @@
+body{
+    height: 100vh;
+    margin: 0;
+    font-family: 'Petit Formal Script', cursive;
+}
+
+.header{
+    text-align: center;
+    background-image: url(../assets/imagens\ de\ fundo\ palha\ .png);
+    padding: 40px 0px;
+    
+}
+
+#line1{
+   background-color: #B09C66;
+   padding: 1px;
+   width: 695px;
+   margin-left: 285px;
+   margin-top: 0px;
+   height: 0;
+   border: 1px solid #B09C66;
+}
+
+h1{
+    font-size: 80px;
+    margin-top:  -60px;
+    color:#60391E;
+}
+
+#line2{
+    background-color:  #B09C66;
+    padding: 1px;
+    width: 695px;
+    margin-left: 285px;
+    border: 1px solid #B09C66;
+}
+
+.options{
+    text-align: center;
+    font-size: 25px;
+    padding: 10px 0px;
+}
+
+#line3{
+    background-color: #B09C66;
+    padding: 1px;
+    display: flex;
+    width: 1245px;
+    margin-left:10px;   
+}
+
+.menu a{
+   padding: 0px 70px;
+   color:#60391E;
+   text-decoration: none;
+}
+
+#line4{
+    background-color: #B09C66;
+    padding: 1px;
+    display: flex;
+    width: 1245px;
+    margin-left:10px;
+}
+
+.spotligth{
+    display: flex;
+    margin: 20px;
+    margin-left: 100px;
+    background-color: #FFF2E2 ;
+    width: 1100px;  
+}
+
+.spotligth img{
+    height: 450px;
+    
+}
+
+.comentary h2{
+    margin-left: 120px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    font-size: 25px;
+    color: #60391E;
+}
+.comentary p{
+    
+    margin-left: 70px; 
+    font-size: 20px;
+    color: #60391E;   
+}
+
+.orders{
+    margin: 0;
+    text-align: center;
+    background-color: #B09C66;
+    padding: 60px;
+}
+
+.orders h2{
+    color:#ffff;
+    font-size: 30px;
+}
+
+.orders l1{
+    color: #ffff;
+    font-size: 20px;
+}
+
+
+#seeOrders{
+    font-family: 'Petit Formal Script', cursive;
+    text-align: center;
+    display: flex;
+    margin-left: 450px;
+    margin-top: 30px;
+    padding: 10px 50px;
+    color:#60391E;
+    font-size: 20px;
+    cursor:pointer;
+}
+
+.ilustration{
+    text-align: center;
+
+}
+
+.ilustration img{
+    width: 1263px; 
+
+}
+
+.aboutUs{
+    margin-top: -5px;
+    text-align: center;
+    background-color: #F8E5CC;
+    padding: 50px;
+    color: #60391E;
+}
+
+.aboutUs img{
+    height: 100px;
+}
+
+.aboutUs h2{
+    font-size: 30px;
+}
+
+.aboutUs p{
+    font-size: 20px;
+}
+
+.contacts{
+    margin-right: 50px;
+    margin-top: 0px;
+    padding: 30px;
+    text-align: center;
+    color: #60391E;
+}
+
+.contacts h2{
+    font-size: 30px;
+    margin-left: 55px;
+}
+
+.contacts img{
+    height: 5vh;
+    margin-left: 60px;
+    
+}
+
+.contacts a{
+    text-decoration: none;
+}
+
+.footer{
+    text-align: center;
+    padding: 30px;
+    background-image: url(../assets/imagens\ de\ fundo\ palha\ .png);
+    color: #60391E;
+}
+
+
+

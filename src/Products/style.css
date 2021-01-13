@@ -1,0 +1,145 @@
+body{
+    height: 100vh;
+    margin: 0;
+    font-family: 'Petit Formal Script', cursive;
+}
+
+.header{
+    text-align: center;
+    background-image: url(../assets/imagens\ de\ fundo\ palha\ .png);
+    padding: 40px 0px;
+    
+}
+
+#line1{
+   background-color: #B09C66;
+   padding: 1px;
+   width: 695px;
+   margin-left: 285px;
+   margin-top: 0px;
+   height: 0;
+   border: 1px solid #B09C66;
+}
+
+h1{
+    font-size: 80px;
+    margin-top:  -60px;
+    color:#60391E;
+}
+
+#line2{
+    background-color:  #B09C66;
+    padding: 1px;
+    width: 695px;
+    margin-left: 285px;
+    border: 1px solid #B09C66;
+}
+
+.options{
+    text-align: center;
+    font-size: 25px;
+    padding: 10px 0px;
+}
+
+#line3{
+    background-color: #B09C66;
+    padding: 1px;
+    display: flex;
+    width: 1245px;
+    margin-left:10px;   
+}
+
+.menu a{
+   padding: 0px 70px;
+   color:#60391E;
+   text-decoration: none;
+}
+
+#line4{
+    background-color: #B09C66;
+    padding: 1px;
+    display: flex;
+    width: 1245px;
+    margin-left:10px;
+}
+
+.products{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.products img{
+   width: 1000px;
+   height: 700px;    
+   background-color: #F8E5CC;
+   z-index: 999;
+   padding: 20px;
+   transition:.5s;
+   cursor: pointer;
+  
+}
+
+.descriptionOne{
+    position:absolute;
+    margin-top: 250px;
+    background-color: #F8E5CC;
+    width: 600px;
+    height: 300px;
+    text-align: center;
+}
+
+.descriptionTwo{
+    position:absolute;
+    margin-top: 1000px;
+    background-color: #F8E5CC;
+    width: 600px;
+    height: 300px;
+    text-align: center;
+}
+
+.descriptionThree{
+    position:absolute;
+    margin-top: 1650px;
+    background-color: #F8E5CC;
+    width: 600px;
+    height: 300px;
+    text-align: center;
+}
+
+.products img:hover{
+    z-index: 000;
+}
+.description{
+    font-size: 24px;
+}
+
+
+
+.contacts{
+    margin-right: 50px;
+    margin-top: 0px;
+    padding: 30px;
+    text-align: center;
+    color: #60391E;
+}
+
+.contacts h2{
+    font-size: 30px;
+    margin-left: 55px;
+}
+
+.contacts img{
+    height: 5vh;
+    margin-left: 60px;
+}
+
+.contacts a{
+    text-decoration: none;
+}
+
+.footer{
+    text-align: center;
+    padding: 30px;
+    background-image: url(../assets/imagens\ de\ fundo\ palha\ .png);
+    color: #60391E;
+}
